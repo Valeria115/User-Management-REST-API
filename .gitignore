@@ -1,0 +1,22 @@
+# Binaries
+*.out
+*.exe
+*.o
+*.a
+*.so
+*.dll
+.env
+
+# IDE
+.vscode
+.idea
+*.swp
+*.swo
+
+# Go
+go.sum
+vendor/
+
+# OS
+.DS_Store
+Thumbs.db
